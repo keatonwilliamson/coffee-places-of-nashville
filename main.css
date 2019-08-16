@@ -18,13 +18,20 @@
 }
 
 .pageHeader { text-align: center;
-    margin: 2em;
+    margin: 7em 2em 3em 2em;
 
 }
 
 .coffee-wrapper{
     text-align: center;
 }
+
+.shop-wrapper{
+    text-align: center;
+    margin-bottom: 3em;
+}
+
+
 .add-coffee {
     display: inline-block;
 }
@@ -37,4 +44,8 @@
 }
 #fillThree {
     visibility: hidden;
+}
+
+.footer {
+margin: 15em auto;
 }
