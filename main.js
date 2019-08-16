@@ -1,7 +1,7 @@
 
   var coffeeArray = ["The Jam","The Well","Red Bicycle","Crema","Frothy Monkey","8th &amp; Roast","Bongo Java","Flatrock","Fido","Steadfast Coffee","Dose Coffee","Sam &amp; Zoes","Slow Hand Coffee","The Horn"];
   
-  function pushCoffeePlaces()
+  let pushCoffeePlaces = () =>
   {
       var inputText = document.getElementById('inputText').value;
       
