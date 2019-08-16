@@ -1,0 +1,40 @@
+.bottom-ones{
+    display: flex;
+    justify-content: space-around;
+}
+
+.top-ones{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    
+}
+
+.shop {
+    border-style: dotted;
+    width: 26%;
+
+}
+
+.pageHeader { text-align: center;
+    margin: 2em;
+
+}
+
+.coffee-wrapper{
+    text-align: center;
+}
+.add-coffee {
+    display: inline-block;
+}
+
+#fillOne {
+    visibility: hidden;
+}
+#fillTwo {
+    visibility: hidden;
+}
+#fillThree {
+    visibility: hidden;
+}
